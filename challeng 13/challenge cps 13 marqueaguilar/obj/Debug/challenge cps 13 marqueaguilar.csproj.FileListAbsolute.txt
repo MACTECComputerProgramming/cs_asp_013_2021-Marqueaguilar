@@ -1,0 +1,14 @@
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\MainWindow.g.cs
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\App.g.cs
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge cps 13 marqueaguilar_MarkupCompile.cache
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge cps 13 marqueaguilar_MarkupCompile.lref
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\bin\Debug\challenge cps 13 marqueaguilar.exe.config
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\bin\Debug\challenge cps 13 marqueaguilar.exe
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\bin\Debug\challenge cps 13 marqueaguilar.pdb
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\MainWindow.baml
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge cps 13 marqueaguilar.g.resources
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge_cps_13_marqueaguilar.Properties.Resources.resources
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge cps 13 marqueaguilar.csproj.GenerateResource.cache
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge cps 13 marqueaguilar.exe
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge cps 13 marqueaguilar.pdb
+C:\Users\MaconRM180\Documents\marque\challeng 13\challenge cps 13 marqueaguilar\obj\Debug\challenge cps 13 marqueaguilar.csprojAssemblyReference.cache
